@@ -11,8 +11,8 @@ namespace PlanetCalculations
         int userAge = Console.ReadLine();
 
       // Length of years on Jupiter (in Earth years)
-      ageJupiter = userAge / 11.86;
-
+        ageJupiter = userAge / 11.86;
+        Console.WriteLine(ageJupiter);
       // Age on Jupiter
 
 
